@@ -4,7 +4,7 @@ Kodluyoruz  Başlangıç Seviye Frontend Web Development Eğitimi kapsamında a�
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 '''
-print (git clone https://github.com/ilbeyozkan/-kodluyoruzilkrepo.git)
+print ("git clone https://github.com/ilbeyozkan/-kodluyoruzilkrepo.git")
 
 '''
 ## Usage
